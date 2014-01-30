@@ -20,4 +20,4 @@ Using the AWS challange instance provided to  create a pig script that completes
 ## You should get the following result set:
 
 
-[pig ofcom results](/results/pig_ofcom_results.txt)
+[pig ofcom results]({{site.baseurl}}/results/pig_ofcom_results.txt)

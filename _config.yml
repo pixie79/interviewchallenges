@@ -1,6 +1,7 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
-baseurl: interviewchallenges
+baseurl: /interviewchallenges
 safe: true
 lsi: false
+
