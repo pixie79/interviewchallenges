@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Pig Challanege 1 - OfCom Data"
+title:  "Pig Challenge 1 - OfCom Data"
 date:   2014-01-24 14:56:53
-permalink: challanges/pig_1
+permalink: challenges/pig_1
 categories: pig
 ---
 
-Using the AWS challange instance provided to  create a pig script that completes the following steps:
+Using the AWS challenge instance provided to  create a pig script that completes the following steps:
 
 
 1. Load the Ofcom data csv file from $HOME/data via a paramater
